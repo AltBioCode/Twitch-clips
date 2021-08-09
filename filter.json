@@ -1,0 +1,14 @@
+{"_default": {
+"1": {"id": "509658", "name": "just chating", "ru_view_count": "5000", "en_view_count": "15000", "duration": "30"}, 
+"2": {"id": "29595", "name": "dota 2", "ru_view_count": "100", "en_view_count": "1000", "duration": "30"}, 
+"3": {"id": "32982", "name": "gta 5", "ru_view_count": "200", "en_view_count": "15000", "duration": "30"}, 
+"4": {"id": "498566", "name": "slots казино", "ru_view_count": "99999", "en_view_count": "99999", "duration": "0"}, 
+"5": {"id": "21779", "name": "League of Legends", "ru_view_count": "100", "en_view_count": "1000", "duration": "30"}, 
+"6": {"id": "490100", "name": "Lost Ark", "ru_view_count": "200", "en_view_count": "10000", "duration": "30"},
+"7": {"id": "27471", "name": "Minecraft", "ru_view_count": "200", "en_view_count": "10000", "duration": "30"}, 
+"8": {"id": "29307", "name": "PoE", "ru_view_count": "200", "en_view_count": "10000", "duration": "30"}, 
+"10": {"id": "0", "name": "другое", "ru_view_count": "100", "en_view_count": "800", "duration": "30"} 
+}
+}
+
+
